@@ -40,7 +40,7 @@ nav ul li{
 .hero{
     width: 100%;
     height: auto;
-    background: url(https://www.readyseteat.com/sites/g/files/qyyrlu501/files/images/hero/Collections_Headers_Rd6_MO_0000s_0004_Cookies.jpg);
+    background: url(https://store-images.s-microsoft.com/image/apps.30854.14420234046939322.ec3a7f71-556a-4861-94ab-58b846ba110a.a30d126c-aa60-40c5-9da8-52ac142d08e7);
     background-repeat: none;
     background-size: cover;
     background-position: center;
@@ -76,6 +76,22 @@ nav ul li{
     border-radius: 5px 0 0 5px;
     font-size:1rem ;
     border: 1px solid rgb(245, 37, 9);
+}
+
+.search.box button{
+    padding: 10px;
+    outline: none;
+    border: 0;
+    border-radius: 0px 5px 5px 0px;
+    font-size: 1rem;
+    background: rgb(245,37,9);
+    color: #fff;
+    cursor: pointer;
+}
+/*..........Recipe Section..........*/
+
+.recipes h2{
+    text-align: center;
 }
 
 
